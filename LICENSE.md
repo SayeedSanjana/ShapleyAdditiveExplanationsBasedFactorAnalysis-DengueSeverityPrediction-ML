@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 Sanjana Sayeed
+Copyright (c) 2025 Sanjana Sayeed , Iktisad Rashid
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
